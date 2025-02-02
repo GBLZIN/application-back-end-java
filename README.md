@@ -1,6 +1,5 @@
 ## Qual é exatamente o objetivo deste projeto e como ele surgiu?
-Em 25 de outubro de 2024, decidi começar a estudar **Java** para minha futura carreira como **Back-End Developer**. 
-Comecei com um curso básico e logo desenvolvi uma aplicação. Abaixo estão os módulos que compõem essa aplicação.
+Em 25 de outubro de 2024, decidi começar a estudar **Java**, comecei com um curso básico e logo desenvolvi uma aplicação. Abaixo estão os módulos que compõem essa aplicação.
 - Aplicação back-end desenvolvida em
   - Java; 
   - Maven; 
